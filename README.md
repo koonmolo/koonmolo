@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there I'm Thanapol Pilawal ([@koonmolo](https://github.com/koonmolo))
 
-<!--
-**koonmolo/koonmolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m a Mobile application developer at Salween Solutions.
+- 🌱 I believe in continuous learning and innovation to solve any challenges.
+- 💡 My skills include Mobile app development, Game app development.
+- 🚀 Currently, I'm also working on my personal iOS and Android app projects: [Parking Pro](https://apps.apple.com/th/app/parking-pro-save-parking-spot/id6451101245) and [Water drops on a lotus leaf](https://play.google.com/store/apps/details?id=com.thanapolpilawal.baibua)
+- 📫 How to reach me: pilawal.t@gmail.com or [Linkedin](https://www.linkedin.com/in/thanapol-pilawal-b5039190/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,react,html,css,vscode,ts,selenium,redux" />
+  </a>
+</p>
